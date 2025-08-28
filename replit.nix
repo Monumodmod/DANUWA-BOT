@@ -6,6 +6,6 @@
     pkgs.pango
     pkgs.libuuid
     pkgs.libpng
-    pkgs.glib
+    pkgs.gli
   ];
 }
